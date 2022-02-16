@@ -31,5 +31,6 @@ public class CarRepairTest {
         System.out.println(r.getSchedule());
         System.out.println(repair5);
         System.out.println("--------------");
+        System.out.println(r.availableMechanics());
     }
 }
